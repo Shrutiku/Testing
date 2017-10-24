@@ -5,8 +5,8 @@ Steps to achieve this environment-
 1)	Install Java
 2)	Set Path for java
 3)	Download Eclipse
-4)	Create new project Compare Numbers, create new package compareProject and add all the external libraries from the libraries from library folder in this project. Also add TestNG library to the project.
-5)	Create a new TestNG class called Numbers and an xml file Crossin this package.
+4)	Create new project Compare Numbers, create new package compareProject and add all the external libraries including selenium-java-3.5.0 and Apache poi jars. Also add TestNG library to the project.
+5)	Create a new TestNG class called Numbers.java and an xml file CrossBrowser.xml this package.
 
 
 Steps to run the code-
